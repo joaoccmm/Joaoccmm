@@ -4,13 +4,15 @@
 - 📖 I really love studying, especially <b>Js</b>, <b>Typescript</b>, <b>ReactJs</b>, front-end <b>frames</b> and <b>Libraries</b>
 - 📫 How to reach me: joaovictorcoelhomartins@gmail.com
 </br>
+</br>
 <div align="center">
-  <a href="https://github.com/joaoccmm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoccmm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoccmm&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoccmm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoccmm&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 </br>
-<div style="display: inline_block"><br>
+</br>
+<p align="center">
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -20,4 +22,4 @@
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="sass" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="VsCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-</div>
+</p>
