@@ -1,7 +1,6 @@
 ### Hi there! I’m Joao👋
 
 - 🔭 I’m currently working as a full-time software developer
-- 📖 I really love studying, especially <b>Js</b>, <b>Typescript</b>, <b>ReactJs</b>, front-end <b>frames</b> and <b>Libraries</b>
 - 📫 How to reach me: joaovictorcoelhomartins@gmail.com
 </br>
 <div align="center">
